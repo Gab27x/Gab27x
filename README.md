@@ -63,8 +63,4 @@
        alt="gab27x" />
 </p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=gab27x&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" 
-       alt="gab27x" />
-</p>
+
